@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fugaz+One&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fugaz+One&family=Sriracha&display=swap');
+body{background:rgba(0,0,0,0.2)}
+
+#container{height:100%;width:100%;border-radius:6px;
+    background-color:rgba(56,56,56,0.9);
+    padding-left:6px;padding-top:6px;padding-bottom:6px;
+    position:relative;margin-bottom:3px;}
+
+#card, #card1{height:100%;width:100%;
+border-radius:6px;
+background-color:rgba(120,120,120,1);
+padding:6px;padding-top:-8px;
+position:relative;
+margin-bottom:3px;
+margin-top:0px;margin-left:-6px;
+/*display:none;*/
+/*font-family: 'Sriracha', cursive;*/
+
+}
+
+
+
+g{font-family:verdana;}
+
+hr{background:black;
+border:1px solid #003089;border-radius:0px;
+}
+
+#c_time{font-size:57px;font-family: 'Fugaz One', cursive;}
+
+#high{height:0px;width:0px;position:absolute;background:green;border:1px solid red;}
+
+#time{color:rgba(0,0,0,0.9);font-weight:bold;}
+
+#header1{height:100%;width:100%;margin:auto;
+    background:grey;margin-top:0px;
+    padding: 15px;
+    position:relative;left:-10px;margin-top:-20px;
+    font-family: 'Monoton', cursive;
+}
+
+tag{position:absolute;
+    height:20px;width:30px;
+    right:10px;
+    background:green;}
+#console1{height:50px;width:100%;background:grey;padding:10px;}
