@@ -1,5 +1,5 @@
 # other platforms
-<a href="https://codepen.io/bikubara">codepen</a><br>
+<a href="https://codepen.io/biku/">codepen</a><br>
 <a href="http://sololearn/bikubara">sololearn</a><br>
 Linkden:
 
